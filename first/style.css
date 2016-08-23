@@ -1,0 +1,24 @@
+* {
+
+}
+body {
+  background-color: lightgrey;
+  margin: 0;
+}
+.main-header {
+  background-color: #2d2b2b;
+  height: 275px;
+  width: 100%;
+}
+.main-content {
+  background-color: white;
+  width: 60%;
+  height: 900px;
+  margin: auto;
+}
+.main-footer {
+  background-color: black;
+  width: 60%;
+  height: 100px;
+  margin: auto;
+}
