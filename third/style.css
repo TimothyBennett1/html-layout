@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: red;
+  height: 900px;
+  width: 100%;
+}
+//*.header {
+  background-color: grey;
+  height: 100px;
+  width: 100%
+}
+.logo {
+  background-color: blue;
+  height: 80px;
+  width: 80px;
+}
