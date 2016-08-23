@@ -2,17 +2,47 @@
   box-sizing: border-box;
 }
 body {
-  background-color: red;
+  background-color: white;
   height: 900px;
   width: 100%;
+  margin: 0;
 }
-//*.header {
-  background-color: grey;
-  height: 100px;
-  width: 100%
+.main-header {
+  background-color: lightgrey;
+  height: 200px;
+  width: 100%;
+  position: relative;
 }
 .logo {
-  background-color: blue;
-  height: 80px;
-  width: 80px;
+  background-color: lightblue;
+  height: 160px;
+  width: 160px;
+  margin-top: 20px;
+  margin-left: 60px;
+  position: absolute;
+}
+.next-content {
+  background-color: white;
+  height: 400px;
+  width: 100%;
+}
+.next-content-2 {
+  background-color: lightblue;
+  height: 200px;
+  width: 100%;
+}
+.next-content-3 {
+  background-color: teal;
+  height: 200px;
+  width: 100%;
+}
+.next-content-4 {
+  background-color: lightgreen;
+  height: 200px;
+  width: 100%;
+}
+.next-content-5 {
+  background-color: yellow;
+  height: 200px;
+  width: 100%;
 }
